@@ -9,10 +9,11 @@
 - Will be studying Public Accountant at Facultad de Ciencias Económicas y Estadísticas, Rosario, Argentina in 2024 💵
 # Hobbies 😀
 - Baseball Scorekeeper 📋✏
-- 5 years of lifting weights
+- 5 years of lifting weights 🏋️‍♀️
 - American Football Enjoyer 🏉
+- Former HITMAN™ competitive speedrunner 🔫🍃
 # Projects 💼
-- Queseria Entre Rios (Grocery Store sales management) in C#
+- Queseria Entre Rios (Grocery Store sales management) in C# 🧀
 ## Languages
 - C#
 - Python
